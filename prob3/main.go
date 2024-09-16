@@ -7,8 +7,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mugund10/hashedtokens/proj3/kafka"
-	db "github.com/mugund10/hashedtokens/proj3/redis"
+	"github.com/mugund10/assignmentsHT/prob3/kafka"
+	db "github.com/mugund10/assignmentsHT/prob3/redis"
 )
 
 // Define a struct for JSON data without omitempty tag
